@@ -1,0 +1,9 @@
+[project]
+name = "mnist-from-scratch"
+version = "0.1.0"
+description = "Learning neural nets and deep learning with the MNIST dataset"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.2.6",
+]

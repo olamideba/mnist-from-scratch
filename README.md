@@ -8,4 +8,5 @@ Implementing a neural network for the Mnist handwritten recognition task without
 ## Installation
 ```bash
 uv install
+
 ```

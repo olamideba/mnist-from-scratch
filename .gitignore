@@ -215,3 +215,5 @@ __marimo__/
 .DS_Store
 loc.py
 src/ec2
+scratch/
+DEVLOG.md
